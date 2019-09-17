@@ -1,83 +1,95 @@
-# David Hamp-Gonsalves
-## Senior Developer & Code Enthusiast
+# Landon Durnan
+## Engineering Manager
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
-> [davidhampgonsalves@gmail.com](mailto:davidhampgonsalves@gmail.com)
-> (902) 817-3574
+
+| [landon.durnan@gmail.com](mailto:landon.durnan@gmail.com) | (443) 846-6645 | [linkedin.com/in/ldurnan](http://linkedin.com/in/ldurnan)  |
+|    ---: |    :----:   | :---    |
 
 ------
 
-### Technical
-
-1. Java
-1. Android / iOS
-1. Javascript / NodeJS
-1. Python
-1. Git / SVN
-1. Cordova
-<!-- 1. Spring / Wicket -->
-1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
-1. PostgreSQL / MySQL
-1. Backbone.js
+My metaphoric hat rack is filled with skills for front-end engineering, design, and product management. As an engineering manager for the past four years, I've built a team devoted to design systems, component libraries, and unique tools. We make the lives of the teams we support easier and their work process faster. I create a collaborative environment, enable efficient and versatile solutions, and influence every customer-facing product from our organization.
 
 ------
 
 ### Experience
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
-	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
+#### Square ####
 
-**Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
-	Designed and implemented features and improvements for multiple enterprise sized applications.
-	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
-	Provided quality solutions to mission critical production issues in a timely manner.
-	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
-	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
+| Engineering Manager | Jun 2018 – Current |
+| :---        |          ---: |
 
-**We Can Pretend** *Technical Consultant* __2011__
-	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
-	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
-	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
-	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
+* Heavily involved in front-end integration of Weebly and Square products. Co-authored and peer review on in-depth decision documents on future of Square design systems. Provides insight and feedback on design and engineering solutions for our largest initiatives and product features.
+* Expanded team impact by leading implementation of internal high-fidelity code prototyping tools and services. By working closely with product, design, and user research our organization is able to build and test functional solutions in days rather than weeks.
+* Created an Ambassadorship program that improved relationships and communication with 9 product teams we support. This program allowed us to understand challenges, make recommendations, and build solutions earlier in the product lifecycle. Overall we've enabled teams to meet deadlines and deliverables on time or ahead of schedule.
+* Advocated, implemented, and created buy-in for new tools and processes that consolidate knowledge sharing, communication, and build roadmaps in one location. This has allowed managers and teams to save countless hours from duplicative work and repetitive conversations.
 
-<!--
-**Redline Distribution** *Web Application Developer* __2008__
-	Wrote a versatile Java EE based, database-driven, e-commerce system for the real time sale, processing and shipping of products available from external distributors such as Baker-Taylor and DeepDiscount.
-	The system interfaced with external distributors to ensure current inventory, status and price and used AJAX rich components to improve usability, convenience and efficiency.
-	**Technical Environment** JBoss, Seam, MySQL, Hibernate, JSF, RichFaces, EJB.
--->
+#### Weebly ####
 
-**CIBC** *Test Analyst* __2007 to 2008__
-	Eliminated manual testing processes with automated QTP scripts to increase productivity and limit repetitive human task based testing.
-	Worked cohesively with other developers and team members to plan, design and implement multi-system automated tests which simulate multiple users and roles.
-	**Technical Environment** VB, Quick Test Professional.
+| Engineering Manager | Jun 2016 – May 2018 |
+| :---        |          ---: |
 
-------
 
-### Projects
+* Managed a team of 5 front-end engineers that built and maintained Weebly's design system. Our system continues to be used by our design and engineering teams for all product, marketing, and admin solutions.
+* Increased visibility, documentation, and communication for team's work and products to decrease feedback loops, reduce duplication of effort, and better support company goals.
+* Architecture of front-end component library to standardize Weebly's new dashboard application across five teams individual services.
+* Developed and calibrated tech screen for front-end engineering interviews and assisted with design of Weebly's trial project for engineering interview process.
 
-* **Ethical Barcode**
-	<a href=http://www.ethicalbarcode.com class=not-printed>ethicalbarcode.com</a>
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+| Tech Lead | Oct 2015 – Jun 2016 |
+| :---        |          ---: |
 
-* **Halifax Crime Heatmap**
-	<a href=http://www.crimeheatmap.ca class=not-printed>crimeheatmap.ca</a>
-	HTML5 Animated heatmap visualising crimes in the city of Halifax. Built on a customised version Heatmap.js library which enables smooth animation. Won silver in the [Apps4Halifax](http://apps4halifax.ca/) city category.
 
-* **Foxish**
-	<a href=https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb class=not-printed>chrome.google.com</a>
-	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
+* Provided leadership for a newly formed team focused on developing Weebly's first UI component library.
+* Implemented dozens of reusable components leveraged across all new features for multiple major product releases
+* Oversaw front-end implementation of new Weebly dashboard, high-traffic marketing pages, visual facelift on the Weebly editor, and internal admin tools.
+
+| Senior Software Engineer | Jun 2014 – Oct 2015 |
+| :---        |          ---: |
+
+
+* Developed internal APIs and refactored web views to support our native iOS app.
+* Implemented Weebly Theme Editor providing designers highly-customized and optimized live editing and site previews
+* Led front-end development for Weebly App Center and Theme Previews.
+
+#### Freelance Web Developer and Graphic Design ####
+| Self-employed | Apr 2013 - Jun 2014 |
+| :---        |          ---: |
+
+* __Rheem__ - DesignStar Web Application Redesign (Angular, Mobile Web App)
+* __Aardvark Brigade__ - CAbi Online, Population Action International, Sustainable Energy for All (Custom Wordpress)
+* __Skylite Snowballs__ - Company website front-end production and custom theme (Custom Wordpress)
+
+#### Apple ####
+| Senior Front-End Engineer | May 2012 - Mar 2013 |
+| :---        |          ---: |
+
+* Developed multiple internal web applications replicating UI functionality and custom features based on Mail and Calendar that’s being used by thousands worldwide in Sales and Retail for communication, scheduling, and surveys.
+* Implemented streamlined front-end framework to make developing custom internal applications faster for multiple internal projects.
+* Provided oversight on UI / UX decisions focused on user-centered design.
+
+#### ngmoco ####
+| Engineer | May 2011 - Feb 2012 |
+| :---        |          ---: |
+
+* Front-end Development for Mobage Developer Portal. (Ruby on Rails, Bootstrap, LESS)
+* Provided customized solution reducing documentation rollout time from days to minutes.
+* Refactored front-end code decreasing complexity, improving maintenance time, and preparing for future features.
+
+
+#### Silverpoint, Inc. ####
+| Front-end Developer | Jan 2006 - May 2011 |
+| :---        |          ---: |
+
+* Managed UI and code overhaul of core product, SchoolSuite, used by hundreds of schools and universities worldwide.
+* Refined specifications and code reducing production time on all sites by up to 50%.
+* Consulted with clients providing high-level technical support and custom solutions to meet specific needs.
+* Lead producer for 40+ websites.
 
 ------
 
 ### Education
 
-**Bachelor of Technology (Software Development)** __2003 to 2007__
-	Seneca College of Applied Arts and Technology (Seneca@York), Toronto, Ontario
+| Bachelor of Sciences - Information Sciences and Technology (Web Development)<br> Penn State University @ York, PA | 2001 - 2005 |
+| :---        |          ---: |
+
+
+**Activities and societies** President and Founder of the Asian Entertainment Club, Orientation Leader, Volunteer for SCROUNGE, Member of the Association for Computing Machinery
